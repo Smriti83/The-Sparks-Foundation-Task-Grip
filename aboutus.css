@@ -1,0 +1,32 @@
+body{
+        margin: 0;
+    padding: 0;
+    font-family: cursive;
+    background-image:url(bank123.jpg);
+}
+#navbar1{
+width:100%;
+    background-color: black;
+overflow: hidden;
+}
+#navbar1 ul{
+    list-style-type: none;
+    float:right;
+    font-family: cursive; 
+
+}
+#navbar1 ul li {
+    display: inline-block;
+}
+#navbar1 ul li a{
+    text-decoration-style: none;
+    padding:2px 30px;
+    text-align: center;
+    color: white;
+    display: block;
+    font-weight: 800;
+    text-decoration: underline;
+}
+.aboutus{
+    text-align: center;
+}
